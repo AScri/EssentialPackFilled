@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/ascri/Документы/EssentialPackFilled/build/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/ascri/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/3709c04cee3e0f99f51b03de3dceecd0/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/ascri/Документы/EssentialPackFilled/build/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/ascri/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/3709c04cee3e0f99f51b03de3dceecd0/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/ascri/Документы/EssentialPackFilled/build/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/home/ascri/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/3709c04cee3e0f99f51b03de3dceecd0/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/ascri/Документы/EssentialPackFilled/build/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/ascri/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/3709c04cee3e0f99f51b03de3dceecd0/res/layout-v21/notification_template_icon_group.xml"
+    }
+]

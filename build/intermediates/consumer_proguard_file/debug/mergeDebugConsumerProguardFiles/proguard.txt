@@ -1,0 +1,1 @@
+-keep class com.mikepenz.essentialpackfilled_typeface_library.EssentialPackFilled { *; }
